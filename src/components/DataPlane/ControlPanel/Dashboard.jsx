@@ -10,7 +10,22 @@ const Dashboard = () => {
         <DataBackground />
       </div>
       <div id='dashboard'>
-      Dashboard
+      <div id='dashboard-left' >
+        <div id='dashboard-left-top'>
+          online users
+        </div>
+        <div id='dashboard-left-bottom'>
+          total users
+        </div>
+      </div>
+      <div id='dashboard-right'>
+        <div id='dashboard-right-top'>
+          Network Status
+        </div>
+        <div id='dashboard-right-bottom'>
+          Latency
+        </div>
+      </div>
       </div>
     </div>
   )

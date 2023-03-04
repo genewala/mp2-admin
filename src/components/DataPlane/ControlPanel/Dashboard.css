@@ -15,4 +15,40 @@
     height: 85vh;
     margin-top: 10px;
     background-color: #dad873;
+    display: flex;   
 }
+#dashboard-left {
+    border: 1px solid black;
+    width: 50%;
+}
+
+#dashboard-right {
+    border: 1px solid black;
+    width: 50%;
+}
+
+#dashboard-left-top {
+    border: 1px solid black;
+    margin: 50px;
+    height: 40%;
+}
+
+#dashboard-left-bottom {
+    border: 1px solid black;
+    margin: 50px;
+    height: 40%;
+}
+
+#dashboard-right-top {
+    border: 1px solid black;
+    margin: 50px;
+    height: 40%;
+}
+
+#dashboard-right-bottom {
+    border: 1px solid black;
+    margin: 50px;
+    height: 40%;
+}
+
+
